@@ -110,7 +110,7 @@ This data establishes that for a significant portion of families in EPCs, walkin
 </p>
 
 <div align="center">
-<img width="800" height="450" alt="alameda_zvhhs_tracts_pct_zvhhs_bxplot" src="https://github.com/user-attachments/assets/d27bcb2e-2fca-4df3-af1a-23e22ad542c6" />
+<img width="750" height="450" alt="alameda_zvhhs_tracts_pct_zvhhs_bxplot" src="https://github.com/user-attachments/assets/d27bcb2e-2fca-4df3-af1a-23e22ad542c6" />
 </div>
 <p align="center">
   <i><b>Figure 3:</b> Distribution of Share of Zero Vehicle Households in Alameda County Census Tracts</i>
