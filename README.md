@@ -2,24 +2,28 @@
 
 <div align="center">
 
-### 31 March 2026
+  <h3>31 March 2026</h3>
 
-**CP 255 Urban Informatics and Visualization**
-**Final Project Report**
+  <p>
+    <strong>CP 255 Urban Informatics and Visualization</strong><br>
+    <strong>Final Project Report</strong>
+  </p>
 
-[MTC Project #1: Proximity to Neighborhood Amenities]
+  <p>[MTC Project #1: Proximity to Neighborhood Amenities]</p>
 
-*by*
+  <p><i>by</i></p>
 
-### MAP’N Team 11 (MTC Team)
-Anwar Baroudi | Phoebe Chiu | Noelani Fixler | Michael Huang
+  <h3>MAP’N Team 11 (MTC Team)</h3>
+  <p>Anwar Baroudi | Phoebe Chiu | Noelani Fixler | Michael Huang</p>
 
----
+  <hr width="50%">
 
-**Department of City and Regional Planning**<br>
-University of California, Berkeley<br>
-230 Bauer Wurster Hall<br>
-Berkeley, CA 94720
+  <p>
+    <strong>Department of City and Regional Planning</strong><br>
+    University of California, Berkeley<br>
+    230 Bauer Wurster Hall<br>
+    Berkeley, CA 94720
+  </p>
 
 </div>
 
