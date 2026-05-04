@@ -1,4 +1,4 @@
-# Closing the Gap: A Data-Driven Priority Index for Safe Routes to School in Equity Priority Communities
+<p align="center"># Closing the Gap: A Data-Driven Priority Index for Safe Routes to School in Equity Priority Communities</p>
 31 March 2026
 
 CP 255 Urban Informatics and Visualization
