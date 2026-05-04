@@ -138,7 +138,7 @@ The SED gap is also a racial one, as shown in Figures 4 and 5. The charts show t
 </p>
 
 <div align="center">
-<img width="800" height="450" alt="ac_students_poc_poc_pct_v2_bxplot" src="https://github.com/user-attachments/assets/125f255b-d5dd-49be-b9d7-e5bd4d47734a" />
+<img width="750" height="450" alt="ac_students_poc_poc_pct_v2_bxplot" src="https://github.com/user-attachments/assets/125f255b-d5dd-49be-b9d7-e5bd4d47734a" />
 </div>
 <p align="center">
   <i><b>Figure 6:</b> Boxplot of Average Share of BIPOC Students in EPC and non-EPC Tracts </i>
@@ -147,7 +147,7 @@ The SED gap is also a racial one, as shown in Figures 4 and 5. The charts show t
 According to the breakdown of school types in Figure 6, EPCs are more heavily served by public institutions at 81 percent than the countywide average, which is 74 percent. Thus, the burden of providing safe, accessible transit falls primarily on public infrastructure and public school district coordination. 
 
 <div align="center">
-<img width="800" height="450" alt="alameda_school_types" src="https://github.com/user-attachments/assets/3e65592a-25cc-4273-b5ab-dfc291b78da1" />
+<img width="800" height="350" alt="alameda_school_types" src="https://github.com/user-attachments/assets/3e65592a-25cc-4273-b5ab-dfc291b78da1" />
 </div>
 <p align="center">
   <i><b>Figure 7:</b> School Type Breakdown (EPCs vs Alameda County) </i>
