@@ -91,4 +91,22 @@ We plan to mitigate this dark data by applying weighting factors based on distri
 The primary justification for our analysis on bus stop connectivity in relation to school access is the higher degree of transit reliance found within EPCs. As shown in Figure 1, census tracts within EPCs show a higher median proportion of households without access to a vehicle compared to Non-EPC tracts. Most Non-EPC tracts cluster below 10 percent, EPC tracts see vehicle-less rates between 10 and 20 percent with outliers as high as 75 percent. 
 
 This data establishes that for a significant portion of families in EPCs, walking or public transit is not a choice but a necessity when it comes to accessing mandatory daily school attendance. Thus, gaps in pedestrian networks or a lack of bus stop proximity or frequency represents a direct barrier to educational access for students. Consequently, SRTS programs should prioritize EPCs for infrastructure investment and policy intervention. Addressing these specific transit-to-school gaps is a pressing point of equity that allows policymakers and planners to direct resources where the ‘time-tax’ is most prevalent on disadvantaged households and their youth. The following figures provide an overview of our initial results regarding EPCs and public transit access disparities.
-blob:https://s0stak5r6v-496ff2e9c6d22116-0-colab.googleusercontent.com/7f4ec27b-ebd1-4998-b616-2aaa791a000d
+<div align="center">
+  <img width="512" height="436" alt="EPC" src="https://github.com/user-attachments/assets/3122d685-02b2-45b9-8e90-0f82bc22f57b" /> 
+</div>
+<p align="center">
+  <i><b>Figure 1:</b> EPCs in Alameda County</i>
+</p>
+
+<div align="center">
+  <img width="1874" height="838" alt="epc_geography_changes" src="https://github.com/user-attachments/assets/baead368-29d6-4b29-a5fe-deeb26c6ab45" />
+</div>
+<p align="center">
+  <i><b>Figure 2:</b> Share of Equity Priority Community Geography</i>
+</p>
+
+<img width="2970" height="1759" alt="alameda_zvhhs_tracts_pct_zvhhs_bxplot" src="https://github.com/user-attachments/assets/d27bcb2e-2fca-4df3-af1a-23e22ad542c6" />
+<p align="center">
+  <i><b>Figure 1:</b>Figure 3: Distribution of Share of Zero Vehicle Households in Alameda County Census Tracts</i>
+</p>
+
