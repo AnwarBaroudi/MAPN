@@ -103,13 +103,15 @@ This data establishes that for a significant portion of families in EPCs, walkin
 </p>
 
 <div align="center">
-  <img width="1874" height="838" alt="epc_geography_changes" src="https://github.com/user-attachments/assets/baead368-29d6-4b29-a5fe-deeb26c6ab45" />
+  <img width="600" height="50" alt="epc_geography_changes" src="https://github.com/user-attachments/assets/baead368-29d6-4b29-a5fe-deeb26c6ab45" />
 </div>
 <p align="center">
   <i><b>Figure 2:</b> Share of Equity Priority Community Geography</i>
 </p>
 
-<img width="2970" height="1759" alt="alameda_zvhhs_tracts_pct_zvhhs_bxplot" src="https://github.com/user-attachments/assets/d27bcb2e-2fca-4df3-af1a-23e22ad542c6" />
+<div align="center">
+<img width="800" height="450" alt="alameda_zvhhs_tracts_pct_zvhhs_bxplot" src="https://github.com/user-attachments/assets/d27bcb2e-2fca-4df3-af1a-23e22ad542c6" />
+</div>
 <p align="center">
   <i><b>Figure 3:</b> Distribution of Share of Zero Vehicle Households in Alameda County Census Tracts</i>
 </p>
@@ -119,7 +121,9 @@ The following data analyses of school demographics within EPCs compared to Non-E
 
 As shown in Figure 3, schools located within EPCs have a median socioeconomically disadvantaged (SED) population of approximately 92 percent with schools serving a population that is at least 80 percent disadvantaged. *brief SED clarification*. In contrast, schools in Non-EPC tracts show a much wider distribution and a significantly lower median of approximately 37 percent. This indicates that transit-dependent infrastructure in EPCs serves the most economically vulnerable students in Alameda County. 
 
-<img width="2970" height="1759" alt="ac_students_sed_SEDpct_bxplot" src="https://github.com/user-attachments/assets/f02d4d61-10d8-496a-8d51-2e91a2ee4ee5" />
+<div align="center">
+<img width="800" height="450" alt="ac_students_sed_SEDpct_bxplot" src="https://github.com/user-attachments/assets/f02d4d61-10d8-496a-8d51-2e91a2ee4ee5" />
+</div>
 <p align="center">
   <i><b>Figure 4:</b> Distribution of Socioeconomically Disadvantaged Students in Alameda County Schools</i>
 </p>
