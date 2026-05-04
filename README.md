@@ -7,7 +7,7 @@
 **CP 255 Urban Informatics and Visualization**
 **Final Project Report**
 
-# [MTC Project #1: Proximity to Neighborhood Amenities]
+[MTC Project #1: Proximity to Neighborhood Amenities]
 
 *by*
 
