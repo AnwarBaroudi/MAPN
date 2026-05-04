@@ -130,19 +130,25 @@ As shown in Figure 3, schools located within EPCs have a median socioeconomicall
 
 The SED gap is also a racial one, as shown in Figures 4 and 5. The charts show that schools in EPCs serve a student population that is approximately 88 percent BIPOC with a 95 percent confidence interval. Schools in Non-EPCs serve significantly fewer BIPOC students, averaging approximately 72 percent of their student body. This further highlights that when students in EPCs face service gaps at bus stops, students of color are disproportionately impacted. 
 
+<div align="center">
 <img width="600" height="450" alt="ac_students_poc_poc_pct_v2_95CI" src="https://github.com/user-attachments/assets/264fc730-f2f3-4291-b26d-9759fcd98619" />
+</div>
 <p align="center">
   <i><b>Figure 5:</b> Average Share of BIPOC Students in EPC and non-EPC Tracts with 95 Percent Confidence Intervals </i>
 </p>
 
+<div align="center">
 <img width="800" height="450" alt="ac_students_poc_poc_pct_v2_bxplot" src="https://github.com/user-attachments/assets/125f255b-d5dd-49be-b9d7-e5bd4d47734a" />
+</div>
 <p align="center">
   <i><b>Figure 6:</b> Boxplot of Average Share of BIPOC Students in EPC and non-EPC Tracts </i>
 </p>
 
 According to the breakdown of school types in Figure 6, EPCs are more heavily served by public institutions at 81 percent than the countywide average, which is 74 percent. Thus, the burden of providing safe, accessible transit falls primarily on public infrastructure and public school district coordination. 
 
+<div align="center">
 <img width="800" height="450" alt="alameda_school_types" src="https://github.com/user-attachments/assets/3e65592a-25cc-4273-b5ab-dfc291b78da1" />
+</div>
 <p align="center">
   <i><b>Figure 7:</b> School Type Breakdown (EPCs vs Alameda County) </i>
 </p>
