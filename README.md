@@ -122,7 +122,7 @@ The following data analyses of school demographics within EPCs compared to Non-E
 As shown in Figure 3, schools located within EPCs have a median socioeconomically disadvantaged (SED) population of approximately 92 percent with schools serving a population that is at least 80 percent disadvantaged. *brief SED clarification*. In contrast, schools in Non-EPC tracts show a much wider distribution and a significantly lower median of approximately 37 percent. This indicates that transit-dependent infrastructure in EPCs serves the most economically vulnerable students in Alameda County. 
 
 <div align="center">
-<img width="800" height="450" alt="ac_students_sed_SEDpct_bxplot" src="https://github.com/user-attachments/assets/f02d4d61-10d8-496a-8d51-2e91a2ee4ee5" />
+<img width="750" height="450" alt="ac_students_sed_SEDpct_bxplot" src="https://github.com/user-attachments/assets/f02d4d61-10d8-496a-8d51-2e91a2ee4ee5" />
 </div>
 <p align="center">
   <i><b>Figure 4:</b> Distribution of Socioeconomically Disadvantaged Students in Alameda County Schools</i>
@@ -131,7 +131,7 @@ As shown in Figure 3, schools located within EPCs have a median socioeconomicall
 The SED gap is also a racial one, as shown in Figures 4 and 5. The charts show that schools in EPCs serve a student population that is approximately 88 percent BIPOC with a 95 percent confidence interval. Schools in Non-EPCs serve significantly fewer BIPOC students, averaging approximately 72 percent of their student body. This further highlights that when students in EPCs face service gaps at bus stops, students of color are disproportionately impacted. 
 
 <div align="center">
-<img width="600" height="450" alt="ac_students_poc_poc_pct_v2_95CI" src="https://github.com/user-attachments/assets/264fc730-f2f3-4291-b26d-9759fcd98619" />
+<img width="650" height="450" alt="ac_students_poc_poc_pct_v2_95CI" src="https://github.com/user-attachments/assets/264fc730-f2f3-4291-b26d-9759fcd98619" />
 </div>
 <p align="center">
   <i><b>Figure 5:</b> Average Share of BIPOC Students in EPC and non-EPC Tracts with 95 Percent Confidence Intervals </i>
