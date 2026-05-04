@@ -103,7 +103,7 @@ This data establishes that for a significant portion of families in EPCs, walkin
 </p>
 
 <div align="center">
-  <img width="600" height="50" alt="epc_geography_changes" src="https://github.com/user-attachments/assets/baead368-29d6-4b29-a5fe-deeb26c6ab45" />
+  <img width="600" height="300" alt="epc_geography_changes" src="https://github.com/user-attachments/assets/baead368-29d6-4b29-a5fe-deeb26c6ab45" />
 </div>
 <p align="center">
   <i><b>Figure 2:</b> Share of Equity Priority Community Geography</i>
