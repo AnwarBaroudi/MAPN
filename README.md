@@ -16,7 +16,10 @@ Anwar Baroudi | Phoebe Chiu | Noelani Fixler | Michael Huang
 
 ---
 
-**Department of City and Regional Planning**/nUniversity of California, Berkeley/n230 Bauer Wurster Hall/nBerkeley, CA 94720
+**Department of City and Regional Planning**<br>
+University of California, Berkeley<br>
+230 Bauer Wurster Hall<br>
+Berkeley, CA 94720
 
 </div>
 
