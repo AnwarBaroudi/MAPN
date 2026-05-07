@@ -194,6 +194,15 @@ Across all three maps, high-frequency bus stops are located strictly along major
 - The concentration of stops on arterials assumes a baseline of pedestrian connectivity that our Tile2Net analysis proves is often missing.
 - These findings suggest that SRTS funding should not just focus on the school gate, but on the pedestrian-transit interface several blocks away, where the most significant last-mile failures occur.
 
+<div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
+  <iframe 
+    src="https://drive.google.com/uc?export=view&id=YOUR_FILE_ID" 
+    width="100%" 
+    height="100%" 
+    style="border:none;">
+  </iframe>
+</div>
+
 ## References
 1. Metropolitan Transportation Commission (MTC), “Bay Area Safe Routes to School.” https://mtc.ca.gov/funding/investment-strategies-commitments/climate-protection/bay-area-safe-routes-school.
 2. N. Wexler et al., "Free Transit Passes and School Attendance among High School Students," Transportation Research Record 2675, no. 10 (2021).
