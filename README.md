@@ -116,65 +116,50 @@ We plan to mitigate this dark data by applying weighting factors based on distri
 The primary justification for our analysis on bus stop connectivity in relation to school access is the higher degree of transit reliance found within EPCs. As shown in Figure 1, census tracts within EPCs show a higher median proportion of households without access to a vehicle compared to Non-EPC tracts. Most Non-EPC tracts cluster below 10 percent, EPC tracts see vehicle-less rates between 10 and 20 percent with outliers as high as 75 percent. 
 
 This data establishes that for a significant portion of families in EPCs, walking or public transit is not a choice but a necessity when it comes to accessing mandatory daily school attendance. Thus, gaps in pedestrian networks or a lack of bus stop proximity or frequency represents a direct barrier to educational access for students. Consequently, SRTS programs should prioritize EPCs for infrastructure investment and policy intervention. Addressing these specific transit-to-school gaps is a pressing point of equity that allows policymakers and planners to direct resources where the ‘time-tax’ is most prevalent on disadvantaged households and their youth. The following figures provide an overview of our initial results regarding EPCs and public transit access disparities.
-<div align="center">
-  <img width="512" height="436" alt="EPC" src="https://github.com/user-attachments/assets/3122d685-02b2-45b9-8e90-0f82bc22f57b" /> 
-</div>
-<p align="center">
-  <i><b>Figure 1:</b> EPCs in Alameda County</i>
-</p>
-
-<div align="center">
-  <img width="600" height="300" alt="epc_geography_changes" src="https://github.com/user-attachments/assets/baead368-29d6-4b29-a5fe-deeb26c6ab45" />
-</div>
-<p align="center">
-  <i><b>Figure 2:</b> Share of Equity Priority Community Geography</i>
-</p>
 
 <div align="center">
 <img width="750" height="450" alt="alameda_zvhhs_tracts_pct_zvhhs_bxplot" src="https://github.com/user-attachments/assets/d27bcb2e-2fca-4df3-af1a-23e22ad542c6" />
 </div>
 <p align="center">
-  <i><b>Figure 3:</b> Distribution of Share of Zero Vehicle Households in Alameda County Census Tracts</i>
+  <i><b>Figure 1:</b> Distribution of Share of Zero Vehicle Households in Alameda County Census Tracts</i>
 </p>
 
 ### B) EPCs as a Focal Point of this Analysis
 The following data analyses of school demographics within EPCs compared to Non-EPCs further reinforces why SRTS projects should prioritize EPCs and takes a deeper look at who is being impacted by these transit gaps. 
 
-As shown in Figure 3, schools located within EPCs have a median socioeconomically disadvantaged (SED) population of approximately 92 percent with schools serving a population that is at least 80 percent disadvantaged. *brief SED clarification*. In contrast, schools in Non-EPC tracts show a much wider distribution and a significantly lower median of approximately 37 percent. This indicates that transit-dependent infrastructure in EPCs serves the most economically vulnerable students in Alameda County. 
+As shown in Figure 2, schools located within EPCs have a median socioeconomically disadvantaged (SED) population of approximately 92 percent with schools serving a population that is at least 80 percent disadvantaged. This variable was already defined by the California Public Schools dataset and this visualization draws on that variable. In contrast, schools in Non-EPC tracts show a much wider distribution and a significantly lower median of approximately 37 percent. This indicates that transit-dependent infrastructure in EPCs serves the most economically vulnerable students in Alameda County. 
 
 <div align="center">
 <img width="750" height="450" alt="ac_students_sed_SEDpct_bxplot" src="https://github.com/user-attachments/assets/f02d4d61-10d8-496a-8d51-2e91a2ee4ee5" />
 </div>
 <p align="center">
-  <i><b>Figure 4:</b> Distribution of Socioeconomically Disadvantaged Students in Alameda County Schools</i>
+  <i><b>Figure 2:</b> Distribution of Socioeconomically Disadvantaged Students in Alameda County Schools</i>
 </p>
 
-The SED gap is also a racial one, as shown in Figures 4 and 5. The charts show that schools in EPCs serve a student population that is approximately 88 percent BIPOC with a 95 percent confidence interval. Schools in Non-EPCs serve significantly fewer BIPOC students, averaging approximately 72 percent of their student body. This further highlights that when students in EPCs face service gaps at bus stops, students of color are disproportionately impacted. 
+The SED gap is also a racial one, as shown in Figures 3 and 4. The charts show that schools in EPCs serve a student population that is approximately 88 percent BIPOC with a 95 percent confidence interval. Schools in Non-EPCs serve significantly fewer BIPOC students, averaging approximately 72 percent of their student body. This further highlights that when students in EPCs face service gaps at bus stops, students of color are disproportionately impacted. 
 
 <div align="center">
 <img width="650" height="450" alt="ac_students_poc_poc_pct_v2_95CI" src="https://github.com/user-attachments/assets/264fc730-f2f3-4291-b26d-9759fcd98619" />
 </div>
 <p align="center">
-  <i><b>Figure 5:</b> Average Share of BIPOC Students in EPC and non-EPC Tracts with 95 Percent Confidence Intervals </i>
+  <i><b>Figure 3:</b> Average Share of BIPOC Students in EPC and non-EPC Tracts with 95 Percent Confidence Intervals </i>
 </p>
 
 <div align="center">
 <img width="750" height="450" alt="ac_students_poc_poc_pct_v2_bxplot" src="https://github.com/user-attachments/assets/125f255b-d5dd-49be-b9d7-e5bd4d47734a" />
 </div>
 <p align="center">
-  <i><b>Figure 6:</b> Boxplot of Average Share of BIPOC Students in EPC and non-EPC Tracts </i>
+  <i><b>Figure 4:</b> Boxplot of Average Share of BIPOC Students in EPC and non-EPC Tracts </i>
 </p>
 
-According to the breakdown of school types in Figure 6, EPCs are more heavily served by public institutions at 81 percent than the countywide average, which is 74 percent. Thus, the burden of providing safe, accessible transit falls primarily on public infrastructure and public school district coordination. 
+According to the breakdown of school types in Figure 5, EPCs are more heavily served by public institutions at 81 percent than the countywide average, which is 74 percent. Thus, the burden of providing safe, accessible transit falls primarily on public infrastructure and public school district coordination. 
 
 <div align="center">
 <img width="800" height="350" alt="alameda_school_types" src="https://github.com/user-attachments/assets/3e65592a-25cc-4273-b5ab-dfc291b78da1" />
 </div>
 <p align="center">
-  <i><b>Figure 7:</b> School Type Breakdown (EPCs vs Alameda County) </i>
+  <i><b>Figure 5:</b> School Type Breakdown (EPCs vs Alameda County) </i>
 </p>
-
-In Figures 3 and 4, the presence of outliers, especially in Non-EPC areas, suggests that while the EPC designation captures the majority of the need, there are still pockets of SED transit-reliance outside of the EPC zones. 
 
 While we map the demographics of schools within EPCs, a notable caveat remains as discussed earlier in the missing data analysis regarding students in the EPCs who may be commuting out to schools in Non-EPC areas. These students are not captured in this analysis and their travel paths may be more complex than the transit-reliance being analyzed in this report.  
 
@@ -186,7 +171,7 @@ In the central and eastern portion of the Alameda Census Tract, Map 1 shows rela
 
 **placeholder **
 <p align="center">
-  <i><b>Figure 8:</b> Analysis of Pedestrian and Transit Connectivity to Schools within Oakland Airport EPC</i>
+  <i><b>Figure 6:</b> Analysis of Pedestrian and Transit Connectivity to Schools within Oakland Airport EPC</i>
 </p>
 
 #### [insert] EPC Accessibility Analysis (update to current maps)
@@ -195,7 +180,7 @@ The San Leandro EPC highlights a land-use mismatch. The southern residential cor
 While these areas are primarily industrial, they often border or contain residential pockets or last-mile segments of a student’s commute. Students living near or adjacent to these industrial buffers are effectively isolated from the transit network. They must traverse long, high-stress distances through areas designed for freight and heavy machinery rather than student safety to access the nearest arterial bus line. This illustrates how industrial zoning acts as a hard barrier to equitable school access.
 **placeholder **
 <p align="center">
-  <i><b>Figure 9:</b> Analysis of Pedestrian and Transit Connectivity to Schools within Nimitz EPC</i>
+  <i><b>Figure 7:</b> Analysis of Pedestrian and Transit Connectivity to Schools within Nimitz EPC</i>
 </p>
 
 #### [insert] EPC Accessibility Analysis (update to current maps)
@@ -205,7 +190,7 @@ Furthermore, schools in Figure 10 are situated at the periphery of the pedestria
 
 **placeholder **
 <p align="center">
-  <i><b>Figure 9:</b> Analysis of Pedestrian and Transit Connectivity to Schools within West Oakland EPC</i>
+  <i><b>Figure 8:</b> Analysis of Pedestrian and Transit Connectivity to Schools within West Oakland EPC</i>
 </p>
 
 Across all three maps, high-frequency bus stops are located strictly along major arterial roads, with minimal transit penetration into residential clusters. With this context, a walk to the nearest bus stop could mean navigating through industrial zones, steep terrain, or major freeway intersections. This highlights a critical service gap as the bus stop distribution prioritizes regional through-traffic rather than the “last-mile” transportation needs of students.
